@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35575381495",
+    "project_id": "fidooo-chat",
+    "storage_bucket": "fidooo-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35575381495:android:95949de78756eb113102f2",
+        "android_client_info": {
+          "package_name": "com.example.chat_fidooo.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCODAj5J74DHVfew7X2jhBUTo3e8rRMKmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
